@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap, Normalize
 
 # Step 1: Load your data and preprocess
-df = pd.read_csv("PageRanks_updated_names.tsv", sep=",")
+df = pd.read_csv("PageRanks_updated_names.csv", sep=",")
 
 oa_cols = [col for col in df.columns if col.startswith("OA")]
 ra_cols = [col for col in df.columns if col.startswith("RA")]
