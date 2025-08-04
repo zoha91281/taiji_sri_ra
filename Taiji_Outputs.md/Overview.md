@@ -29,6 +29,7 @@ Taiji generates genome-scale transcriptional regulatory networks by integrating 
   - Network visualization in iGraph
   - Subnetwork extraction (e.g., top 50 TFs)
   - Hub TF identification
+  - File size too large to upload on GitHub
 
 ---
 
@@ -39,6 +40,7 @@ Taiji generates genome-scale transcriptional regulatory networks by integrating 
 - **Use**:
   - IGV track generation
   - Cross-reference with ATAC-seq peaks
+  - File size too large to upload on GitHub
 
 ---
 
@@ -52,6 +54,7 @@ Taiji generates genome-scale transcriptional regulatory networks by integrating 
 - **Use**:
   - Functional annotation of distal regulatory elements
   - Network edge refinement
+  - File size too large to upload on GitHub
 
 ---
 
@@ -60,6 +63,7 @@ Taiji generates genome-scale transcriptional regulatory networks by integrating 
 - **Use**:
   - Downstream grouping and statistical comparisons
   - Batch reproducibility
+  - File size too large to upload on GitHub
 
 ---
 
